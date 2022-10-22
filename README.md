@@ -10,3 +10,7 @@ Created a model to automatically segment the stomach and intestines on MRI scans
 Used Medical Open Network for AI ([MONAI](https://monai.io/)). PyTorch-based framework for deep learning in healthcare imaging
 
 Data provided by UW-Madison on Kaggle as a part of Kaggle research.
+
+## Segmented Image produced after training the model.
+
+<img width="5000" alt="content_plus_style" src="https://github.com/ABHIGYANSINGH77/GI-Tract-Image-Segmentation/blob/main/Img/segmented_image.PNG?raw=true">
